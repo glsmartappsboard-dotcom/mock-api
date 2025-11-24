@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "defaultPreviewUrl": "https://cdn.pixabay.com/video/2023/07/29/173660-849818598_large.mp4",
+      "fileName": "Video2",
+      "rawResourceUrl": "https://cdn.pixabay.com/video/2023/07/29/173660-849818598_large.mp4",
+      "author": "",
+      "contentId": "f7d70683-6177-44ba-9617-713389a7046v2",
+      "title": "Video2",
+      "uploadedDate": 1763619597070,
+      "ownerId": "bf69a538-b920-4bc7-9722-221988e03dad",
+      "previewsInfo": [],
+      "previews": [],
+      "lastModified": 1763619597070,
+      "lessonPersistDoc": "",
+      "resourceType": "Video",
+      "previewGeneratedDate": 1763619604673
+    }
+  ]
+}

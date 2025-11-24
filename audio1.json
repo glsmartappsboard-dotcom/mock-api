@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "defaultPreviewUrl": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_2MG.mp3",
+      "fileName": "Audio1",
+      "rawResourceUrl": "",
+      "author": "",
+      "contentId": "f7d70683-6177-44ba-9617-713389a704ad1",
+      "title": "Audio1",
+      "uploadedDate": 1763619597070,
+      "ownerId": "bf69a538-b920-4bc7-9722-221988e03dad",
+      "previewsInfo": [],
+      "previews": [],
+      "lastModified": 1763619597070,
+      "lessonPersistDoc": "",
+      "resourceType": "AUDIO",
+      "previewGeneratedDate": 1763619604673
+    }
+  ]
+}
