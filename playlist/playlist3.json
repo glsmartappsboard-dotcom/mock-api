@@ -6,25 +6,25 @@
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046im3",
          "resourceType": "IMAGE",
          "duration": "",
-         "link":"https://raw.githubusercontent.com/glsmartappsboard-dotcom/mock-api/refs/heads/main/image3.json"
+         "link":"image/image3.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046v3",
          "resourceType": "VIDEO",
          "duration": "",
-         "link":"https://raw.githubusercontent.com/glsmartappsboard-dotcom/mock-api/refs/heads/main/video3.json"
+         "link":"video/video3.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a70pdf2",
          "resourceType": "PDF",
          "duration": "",
-         "link":"https://raw.githubusercontent.com/glsmartappsboard-dotcom/mock-api/refs/heads/main/pdf2.json"
+         "link":"pdf/pdf2.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a704ad1",
          "resourceType": "AUDIO",
          "duration": "",
-         "link":"https://raw.githubusercontent.com/glsmartappsboard-dotcom/mock-api/refs/heads/main/audio1.json"
+         "link":"audio/audio1.json"
        }
      ]
    }
