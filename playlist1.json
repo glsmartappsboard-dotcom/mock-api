@@ -1,0 +1,25 @@
+[
+   {
+     "playlistId": "Playlist1",
+     "resourceList": [
+       {
+         "resourceId": "Playlist2",
+         "resourceType": "PLAYLIST",
+         "duration": "",
+         "link":"https://raw.githubusercontent.com/glsmartappsboard-dotcom/mock-api/refs/heads/main/playlist2.json"
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046im1",
+         "resourceType": "IMAGE",
+         "duration": "",
+         "link":"https://raw.githubusercontent.com/glsmartappsboard-dotcom/mock-api/refs/heads/main/image1.json"
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046v1",
+         "resourceType": "VIDEO",
+         "duration": "",
+         "link":"https://raw.githubusercontent.com/glsmartappsboard-dotcom/mock-api/refs/heads/main/video1.json"
+       }
+     ]
+   }
+]
