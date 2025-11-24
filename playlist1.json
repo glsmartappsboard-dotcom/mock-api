@@ -1,9 +1,9 @@
 [
    {
-     "playlistId": "Playlist1",
+     "playlistId": "playlist1",
      "resourceList": [
        {
-         "resourceId": "Playlist2",
+         "resourceId": "playlist2",
          "resourceType": "PLAYLIST",
          "duration": ""
        },
