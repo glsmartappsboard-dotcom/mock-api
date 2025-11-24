@@ -6,19 +6,16 @@
          "resourceId": "Playlist2",
          "resourceType": "PLAYLIST",
          "duration": "",
-         "link":"playlist/playlist2.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046im1",
          "resourceType": "IMAGE",
          "duration": "",
-         "link":"image/image1.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046v1",
          "resourceType": "VIDEO",
          "duration": "",
-         "link":"video/video1.json"
        }
      ]
    }

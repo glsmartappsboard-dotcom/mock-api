@@ -6,25 +6,21 @@
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046im3",
          "resourceType": "IMAGE",
          "duration": "",
-         "link":"image/image3.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046v3",
          "resourceType": "VIDEO",
          "duration": "",
-         "link":"video/video3.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a70pdf2",
          "resourceType": "PDF",
          "duration": "",
-         "link":"pdf/pdf2.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a704ad1",
          "resourceType": "AUDIO",
          "duration": "",
-         "link":"audio/audio1.json"
        }
      ]
    }

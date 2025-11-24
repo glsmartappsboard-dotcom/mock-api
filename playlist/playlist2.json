@@ -6,25 +6,21 @@
          "resourceId": "Playlist3",
          "resourceType": "PLAYLIST",
          "duration": "",
-         "link":"playlist/playlist2.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046im2",
          "resourceType": "IMAGE",
          "duration": "",
-         "link":"image/image2.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046v2",
          "resourceType": "VIDEO",
          "duration": "",
-         "link":"video/video2.json"
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a70pdf1",
          "resourceType": "PDF",
          "duration": "",
-         "link":"pdf/pdf1.json"
        }
      ]
    }
