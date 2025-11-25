@@ -1,0 +1,22 @@
+[
+   {
+     "playlistId": "playlist6",
+     "resourceList": [
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a704v5",
+         "resourceType": "VIDEO",
+         "duration": "",
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a70pdf3",
+         "resourceType": "PDF",
+         "duration": ""
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046im4",
+         "resourceType": "IMAGE",
+         "duration": ""
+       }
+     ]
+   }
+]
