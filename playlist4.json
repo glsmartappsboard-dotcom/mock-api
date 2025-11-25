@@ -5,14 +5,12 @@
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a704ad2",
          "resourceType": "AUDIO",
-         "duration": "",
-         "link":"audio/audio2.json"
+         "duration": ""
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a704v5",
          "resourceType": "VIDEO",
-         "duration": "",
-         "link":"video/video5.json"
+         "duration": ""
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a70pdf3",
