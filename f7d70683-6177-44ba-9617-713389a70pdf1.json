@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "defaultPreviewUrl": "https://file-examples.com/wp-content/storage/2017/10/file-sample_150kB.pdf",
+      "defaultPreviewUrl": "https://github.com/glsmartappsboard-dotcom/mock-api/blob/main/content/samplepdf1.pdf",
       "fileName": "PDF1",
-      "rawResourceUrl": "https://file-examples.com/wp-content/storage/2017/10/file-sample_150kB.pdf",
+      "rawResourceUrl": "https://github.com/glsmartappsboard-dotcom/mock-api/blob/main/content/samplepdf1.pdf",
       "author": "",
       "contentId": "f7d70683-6177-44ba-9617-713389a70pdf1",
       "title": "PDF1",
