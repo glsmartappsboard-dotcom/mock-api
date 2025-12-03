@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "defaultPreviewUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "defaultPreviewUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
       "fileName": "Video2v",
-      "rawResourceUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "rawResourceUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
       "author": "",
       "contentId": "f7d70683-6177-44ba-9617-713389a7042v",
       "title": "Video2v",
