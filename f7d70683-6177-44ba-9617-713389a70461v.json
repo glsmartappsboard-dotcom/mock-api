@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "defaultPreviewUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "defaultPreviewUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
       "fileName": "Video1v",
-      "rawResourceUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "rawResourceUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
       "author": "",
       "contentId": "f7d70683-6177-44ba-9617-713389a70461v",
       "title": "Video1v",
