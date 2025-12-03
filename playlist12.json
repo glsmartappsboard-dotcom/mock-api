@@ -1,0 +1,18 @@
+[
+   {
+     "playlistId": "playlist12",
+     "resourceList": [
+      
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046v6",
+         "resourceType": "VIDEO",
+         "duration": "30000"
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046v5",
+         "resourceType": "VIDEO",
+         "duration": "60000"
+       }
+     ]
+   }
+]
