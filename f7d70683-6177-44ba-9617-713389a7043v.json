@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "defaultPreviewUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "defaultPreviewUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
       "fileName": "Video3v",
-      "rawResourceUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "rawResourceUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
       "author": "",
       "contentId": "f7d70683-6177-44ba-9617-713389a7043v",
       "title": "Video3v",
