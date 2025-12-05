@@ -1,0 +1,32 @@
+[
+   {
+     "playlistId": "playlist14",
+     "resourceList": [
+        {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7042v",
+         "resourceType": "VIDEO",
+         "duration": "60000"
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a70461v",
+         "resourceType": "VIDEO",
+         "duration": "15000"
+       },
+       {
+         "resourceId": "playlist3",
+         "resourceType": "PLAYLIST",
+         "duration": "10000"
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7043v",
+         "resourceType": "VIDEO",
+         "duration": "15000"
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7044v",
+         "resourceType": "VIDEO",
+         "duration": "45000"
+       }
+     ]
+   }
+]
