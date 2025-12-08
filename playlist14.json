@@ -15,7 +15,12 @@
        {
          "resourceId": "playlist3",
          "resourceType": "PLAYLIST",
-         "duration": "600000"
+         "duration": ""
+       },
+       {
+         "resourceId": "playlist5",
+         "resourceType": "PLAYLIST",
+         "duration": ""
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7043v",
