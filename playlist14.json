@@ -7,10 +7,10 @@
          "resourceType": "VIDEO",
          "duration": "60000"
        },
-       {
-         "resourceId": "f7d70683-6177-44ba-9617-713389a70461v",
-         "resourceType": "VIDEO",
-         "duration": "15000"
+        {
+           "resourceId": "f7d70683-6177-44ba-9617-713389a7046im4",
+           "resourceType": "IMAGE",
+           "duration": ""
        },
        {
          "resourceId": "playlist3",
@@ -18,19 +18,14 @@
          "duration": ""
        },
        {
-         "resourceId": "playlist5",
-         "resourceType": "PLAYLIST",
-         "duration": ""
-       },
-       {
-         "resourceId": "f7d70683-6177-44ba-9617-713389a7043v",
+         "resourceId": "f7d70683-6177-44ba-9617-713389a70461v",
          "resourceType": "VIDEO",
          "duration": "15000"
        },
        {
-         "resourceId": "f7d70683-6177-44ba-9617-713389a7044v",
-         "resourceType": "VIDEO",
-         "duration": "45000"
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046im1",
+         "resourceType": "IMAGE",
+         "duration": ""
        }
      ]
    }
