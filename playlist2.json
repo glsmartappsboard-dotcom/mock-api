@@ -3,11 +3,6 @@
      "playlistId": "playlist2",
      "resourceList": [
        {
-         "resourceId": "playlist3",
-         "resourceType": "PLAYLIST",
-         "duration": ""
-       },
-       {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046im2",
          "resourceType": "IMAGE",
          "duration": ""
@@ -20,6 +15,10 @@
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a70pdf1",
          "resourceType": "PDF",
+         "duration": ""
+       },{
+         "resourceId": "f7d70683-6177-44ba-9617-713389a704ad1",
+         "resourceType": "AUDIO",
          "duration": ""
        }
      ]
