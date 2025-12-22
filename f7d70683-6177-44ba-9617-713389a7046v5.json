@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "defaultPreviewUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "fileName": "Video5v",
+      "rawResourceUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "author": "",
+      "contentId": "f7d70683-6177-44ba-9617-713389a7045v",
+      "title": "Video5v",
+      "uploadedDate": 1763619597070,
+      "ownerId": "bf69a538-b920-4bc7-9722-221988e03dad",
+      "previewsInfo": [],
+      "previews": [],
+      "lastModified": 1763619597070,
+      "lessonPersistDoc": "",
+      "resourceType": "VIDEO",
+      "previewGeneratedDate": 1763619604673
+    }
+  ]
+}
