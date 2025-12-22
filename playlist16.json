@@ -13,8 +13,23 @@
          "duration": ""
        },
        {
-         "resourceId": "f7d70683-6177-44ba-9617-713389a7046im1",
-         "resourceType": "IMAGE",
+         "resourceId": "ff7d70683-6177-44ba-9617-713389a7046v9",
+         "resourceType": "VIDEO",
+         "duration": ""
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a704ad4",
+         "resourceType": "AUDIO",
+         "duration": ""
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a704ad5",
+         "resourceType": "AUDIO",
+         "duration": ""
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a704ad6",
+         "resourceType": "AUDIO",
          "duration": ""
        },
        {
