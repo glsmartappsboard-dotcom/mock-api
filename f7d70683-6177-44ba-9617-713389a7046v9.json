@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "defaultPreviewUrl": "https://getsamplefiles.com/download/ogg/sample-1.ogg",
+      "defaultPreviewUrl": "https://media.xiph.org/opus/samples/examples/speech_orig.wav",
       "fileName": "Video9v",
-      "rawResourceUrl": "https://getsamplefiles.com/download/ogg/sample-1.ogg",
+      "rawResourceUrl": "https://media.xiph.org/opus/samples/examples/speech_orig.wav",
       "author": "",
       "contentId": "f7d70683-6177-44ba-9617-713389a7046v9",
       "title": "Video9v",
