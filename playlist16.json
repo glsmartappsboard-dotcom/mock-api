@@ -3,17 +3,17 @@
      "playlistId": "playlist16",
      "resourceList": [ 
        {
-         "resourceId": "playlist15",
-         "resourceType": "PLAYLIST",
-         "duration": ""
-       },
-       {
          "resourceId": "f7d70683-6177-44ba-9617-713389a7046im1",
          "resourceType": "IMAGE",
          "duration": ""
        },
        {
-         "resourceId": "f7d70683-6177-44ba-9617-713389a7046v1",
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046v5",
+         "resourceType": "VIDEO",
+         "duration": ""
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046v7",
          "resourceType": "VIDEO",
          "duration": ""
        }
