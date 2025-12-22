@@ -13,13 +13,18 @@
          "duration": ""
        },
        {
-         "resourceId": "ff7d70683-6177-44ba-9617-713389a7046v9",
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046v11",
          "resourceType": "VIDEO",
          "duration": ""
        },
        {
          "resourceId": "f7d70683-6177-44ba-9617-713389a704ad4",
          "resourceType": "AUDIO",
+         "duration": ""
+       },
+       {
+         "resourceId": "f7d70683-6177-44ba-9617-713389a7046im1",
+         "resourceType": "IMAGE",
          "duration": ""
        },
        {
