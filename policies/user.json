@@ -1,0 +1,22 @@
+{
+    "policies": [
+        {
+            "id": "policy-user-rank-2",
+            "name": "User Policy (Himanshu)",
+            "description": "User-specific policy for himanshu",
+            "rank": 2,
+            "policyLevel": "user",
+            "currentVersion": 1,
+            "settings": [
+                {
+                    "key": "factory-reset",
+                    "value": {
+                        "isEnabled": true
+                    }
+                }
+            ],
+            "createdAt": "2024-01-25T00:00:00Z",
+            "updatedAt": "2024-01-25T00:00:00Z"
+        }
+    ]
+}
