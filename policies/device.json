@@ -1,0 +1,94 @@
+{
+    "policies": [
+        {
+            "id": "policy-global-rank-1",
+            "name": "Global Default Policy",
+            "description": "Global policy applied to all users and devices",
+            "rank": 1,
+            "policyLevel": "global",
+            "currentVersion": 1,
+            "settings": [
+                {
+                    "key": "factory-reset",
+                    "value": {
+                        "isEnabled": true
+                    }
+                },
+                {
+                    "key": "install-apps",
+                    "value": {
+                        "isEnabled": true
+                    }
+                },
+                {
+                    "key": "uninstall-apps",
+                    "value": {
+                        "isEnabled": true
+                    }
+                },
+                {
+                    "key": "wallpaper",
+                    "value": {
+                        "isEnabled": true
+                    }
+                }
+            ],
+            "createdAt": "2024-01-01T00:00:00Z",
+            "updatedAt": "2024-01-01T00:00:00Z"
+        },
+        {
+            "id": "policy-org-rank-1",
+            "name": "Organization Policy",
+            "description": "Organization-level overrides",
+            "rank": 1,
+            "policyLevel": "org",
+            "currentVersion": 1,
+            "settings": [
+                {
+                    "key": "uninstall-apps",
+                    "value": {
+                        "isEnabled": true
+                    }
+                }
+            ],
+            "createdAt": "2024-01-05T00:00:00Z",
+            "updatedAt": "2024-01-05T00:00:00Z"
+        },
+        {
+            "id": "policy-deviceGroup-rank-1",
+            "name": "Device Group Policy",
+            "description": "Policy applied to specific device groups",
+            "rank": 1,
+            "policyLevel": "deviceGroup",
+            "currentVersion": 1,
+            "settings": [
+                {
+                    "key": "factory-reset",
+                    "value": {
+                        "isEnabled": true
+                    }
+                }
+            ],
+            "createdAt": "2024-01-10T00:00:00Z",
+            "updatedAt": "2024-01-10T00:00:00Z"
+        },
+        {
+            "id": "policy-device-rank-2",
+            "name": "Device Level Policy",
+            "description": "Policy applied directly to devices",
+            "rank": 2,
+            "policyLevel": "device",
+            "currentVersion": 1,
+            "settings": [
+                {
+                    "key": "safe-boot",
+                    "value": {
+                        "isEnabled": false
+                    }
+                }
+            ],
+            "createdAt": "2024-01-15T00:00:00Z",
+            "updatedAt": "2024-01-15T00:00:00Z"
+        }
+    ]
+}
