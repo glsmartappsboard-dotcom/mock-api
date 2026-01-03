@@ -11,7 +11,7 @@
                 {
                     "key": "factory-reset",
                     "value": {
-                        "isEnabled": true
+                        "isEnabled": false
                     }
                 },
                  {
