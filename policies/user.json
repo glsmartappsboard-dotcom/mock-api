@@ -6,7 +6,7 @@
             "description": "User-specific policy for himanshu",
             "rank": 2,
             "policyLevel": "user",
-            "currentVersion": 1,
+            "currentVersion": 2,
             "settings": [
                 {
                     "key": "factory-reset",
