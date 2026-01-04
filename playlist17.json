@@ -15,7 +15,7 @@
         },
         {
           "resourceId": "r3",
-          "resourceType": "IMAGE",
+          "resourceType": "WEB",
           "duration": 5000
         },
         {
