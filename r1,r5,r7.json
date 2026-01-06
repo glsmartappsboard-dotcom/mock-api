@@ -1,0 +1,128 @@
+[
+  {
+    "id": "r1",
+    "title": "marketing image 2",
+    "description": "this content is for Android team to test, please do not update or delete",
+    "parentFolderId": "8b75b51e-b269-4293-aa76-e514ddac886a",
+    "ancestorFolderIds": [
+      "8b75b51e-b269-4293-aa76-e514ddac886a"
+    ],
+    "rootLibraryId": "8b75b51e-b269-4293-aa76-e514ddac886a",
+    "clementinePlatform": "CLEMENTINE_LIBRARY",
+    "isComplete": true,
+    "uploadedBy": "b69ee7580bfd2483a8eeb9e994e2a1a5",
+    "uploadedDate": 1765483746622,
+    "author": "smart control team",
+    "lastAccessed": 1765483746622,
+    "lastModified": 1765483746622,
+    "resourceType": "IMAGE",
+    "fileSize": 0,
+    "tags": [
+      "this content is for Android team to test, please do not update or delete"
+    ],
+    "organizationId": "6d01f3f9-6ff1-45fe-8a86-44bd5bcd3a91",
+    "rawResourceUrl": {
+      "s3Info": {
+        "bucketName": "com-smarttech-content-preprod",
+        "key": "47079648-4b53-4e14-bb40-9da25445fbc3"
+      },
+      "type": "S3_INFO",
+      "mimeType": "image/jpeg",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCisqQh2pfLoKY0ThvwiwHzY1u7-FSrbNAA&s"
+    },
+    "defaultPreviewUrl": {
+      "s3Info": {
+        "bucketName": "com-smarttech-content-preprod",
+        "key": "5c36a027-ff42-42ed-85c8-a3151a048ce9",
+        "resolution": 1200
+      },
+      "type": "S3_INFO",
+      "mimeType": "image/png",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCisqQh2pfLoKY0ThvwiwHzY1u7-FSrbNAA&s"
+    }
+  },
+  {
+    "id": "r5",
+    "title": "marketing image 2",
+    "description": "this content is for Android team to test, please do not update or delete",
+    "parentFolderId": "8b75b51e-b269-4293-aa76-e514ddac886a",
+    "ancestorFolderIds": [
+      "8b75b51e-b269-4293-aa76-e514ddac886a"
+    ],
+    "rootLibraryId": "8b75b51e-b269-4293-aa76-e514ddac886a",
+    "clementinePlatform": "CLEMENTINE_LIBRARY",
+    "isComplete": true,
+    "uploadedBy": "b69ee7580bfd2483a8eeb9e994e2a1a5",
+    "uploadedDate": 1765483746622,
+    "author": "smart control team",
+    "lastAccessed": 1765483746622,
+    "lastModified": 1765483746622,
+    "resourceType": "IMAGE",
+    "fileSize": 0,
+    "tags": [
+      "this content is for Android team to test, please do not update or delete"
+    ],
+    "organizationId": "6d01f3f9-6ff1-45fe-8a86-44bd5bcd3a91",
+    "rawResourceUrl": {
+      "s3Info": {
+        "bucketName": "com-smarttech-content-preprod",
+        "key": "47079648-4b53-4e14-bb40-9da25445fbc3"
+      },
+      "type": "S3_INFO",
+      "mimeType": "image/jpeg",
+      "url": "https://download.samplelib.com/jpeg/sample-clouds-400x300.jpg"
+    },
+    "defaultPreviewUrl": {
+      "s3Info": {
+        "bucketName": "com-smarttech-content-preprod",
+        "key": "5c36a027-ff42-42ed-85c8-a3151a048ce9",
+        "resolution": 1200
+      },
+      "type": "S3_INFO",
+      "mimeType": "image/png",
+      "url": "https://download.samplelib.com/jpeg/sample-clouds-400x300.jpg"
+    }
+  },
+  {
+    "id": "r7",
+    "title": "marketing image 2",
+    "description": "this content is for Android team to test, please do not update or delete",
+    "parentFolderId": "8b75b51e-b269-4293-aa76-e514ddac886a",
+    "ancestorFolderIds": [
+      "8b75b51e-b269-4293-aa76-e514ddac886a"
+    ],
+    "rootLibraryId": "8b75b51e-b269-4293-aa76-e514ddac886a",
+    "clementinePlatform": "CLEMENTINE_LIBRARY",
+    "isComplete": true,
+    "uploadedBy": "b69ee7580bfd2483a8eeb9e994e2a1a5",
+    "uploadedDate": 1765483746622,
+    "author": "smart control team",
+    "lastAccessed": 1765483746622,
+    "lastModified": 1765483746622,
+    "resourceType": "VIDEO",
+    "fileSize": 0,
+    "tags": [
+      "this content is for Android team to test, please do not update or delete"
+    ],
+    "organizationId": "6d01f3f9-6ff1-45fe-8a86-44bd5bcd3a91",
+    "rawResourceUrl": {
+      "s3Info": {
+        "bucketName": "com-smarttech-content-preprod",
+        "key": "47079648-4b53-4e14-bb40-9da25445fbc3"
+      },
+      "type": "S3_INFO",
+      "mimeType": "video/mp4",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    },
+    "defaultPreviewUrl": {
+      "s3Info": {
+        "bucketName": "com-smarttech-content-preprod",
+        "key": "5c36a027-ff42-42ed-85c8-a3151a048ce9",
+        "resolution": 1200
+      },
+      "type": "S3_INFO",
+      "mimeType": "video/mp4",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    }
+  }
+]
