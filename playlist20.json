@@ -4,12 +4,17 @@
       "playlistId": "playlist20",
       "resourceList": [
         {
+          "resourceId": "r1",
+          "resourceType": "IMAGE",
+          "duration": 5000
+        },
+        {
           "resourceId": "r5",
           "resourceType": "IMAGE",
           "duration": 5000
         },
         {
-          "resourceId": "r6",
+          "resourceId": "r7",
           "resourceType": "VIDEO",
           "duration": 12000
         },
