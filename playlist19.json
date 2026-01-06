@@ -1,0 +1,24 @@
+{
+  "playlists": [
+    {
+      "playlistId": "playlist19",
+      "resourceList": [
+        {
+          "resourceId": "r1",
+          "resourceType": "IMAGE",
+          "duration": 5000
+        },
+        {
+          "resourceId": "r5",
+          "resourceType": "IMAGE",
+          "duration": 5000
+        },
+        {
+          "resourceId": "r7",
+          "resourceType": "VIDEO",
+          "duration": 10000
+        }
+      ]
+    }
+  ]
+}
