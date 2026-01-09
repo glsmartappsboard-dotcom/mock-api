@@ -11,25 +11,25 @@
                 {
                     "key": "factory-reset",
                     "value": {
-                        "isEnabled": true
+                        "isEnabled": false
                     }
                 },
                 {
                     "key": "install-apps",
                     "value": {
-                        "isEnabled": true
+                        "isEnabled": false
                     }
                 },
                 {
                     "key": "uninstall-apps",
                     "value": {
-                        "isEnabled": true
+                        "isEnabled": false
                     }
                 },
                 {
                     "key": "wallpaper",
                     "value": {
-                        "isEnabled": true
+                        "isEnabled": false
                     }
                 }
             ],
@@ -47,7 +47,7 @@
                 {
                     "key": "uninstall-apps",
                     "value": {
-                        "isEnabled": true
+                        "isEnabled": false
                     }
                 }
             ],
@@ -65,7 +65,7 @@
                 {
                     "key": "factory-reset",
                     "value": {
-                        "isEnabled": true
+                        "isEnabled": false
                     }
                 }
             ],
