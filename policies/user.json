@@ -1,7 +1,7 @@
 {
     "policies": [
         {
-            "id": "policy-user-rank-2",
+            "id": "policy-123",
             "name": "User Policy (Himanshu)",
             "description": "User-specific policy for himanshu",
             "rank": 2,
@@ -9,9 +9,9 @@
             "currentVersion": 2,
             "settings": [
                 {
-                    "key": "factory-reset",
+                    "key": "wallpaper",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 },
                  {
