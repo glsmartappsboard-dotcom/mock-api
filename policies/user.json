@@ -11,7 +11,8 @@
                 {
                     "key": "wallpaper",
                     "value": {
-                        "isEnabled": true
+                        "isEnabled": true,
+                        "downloadUrl":"https://static.vecteezy.com/system/resources/thumbnails/052/248/075/small/peacock-feather-wallpaper-hd-wallpaper-photo.jpeg"
                     }
                 },
                  {
