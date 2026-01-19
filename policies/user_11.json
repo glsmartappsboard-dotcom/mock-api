@@ -1,0 +1,28 @@
+{
+    "policies": [
+        {
+            "id": "policy-123",
+            "name": "User Policy (Himanshu)",
+            "description": "User-specific policy for himanshu",
+            "rank": 2,
+            "policyLevel": "user",
+            "currentVersion": 2,
+            "settings": [
+                {
+                    "key": "wallpaper",
+                    "value": {
+                        "isEnabled": true,
+                    }
+                },
+                 {
+                    "key": "install-apps",
+                    "value": {
+                        "isEnabled": false
+                    }
+                }
+            ],
+            "createdAt": "2024-01-25T00:00:00Z",
+            "updatedAt": "2024-01-25T00:00:00Z"
+        }
+    ]
+}
