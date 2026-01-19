@@ -4,9 +4,9 @@
             "id": "policy-123-user-10",
             "name": "User Policy (Himanshu)",
             "description": "User-specific policy for himanshu",
-            "rank": 2,
+            "rank": 1,
             "policyLevel": "user",
-            "currentVersion": 2,
+            "currentVersion": 1,
             "settings": [
                 {
                     "key": "vpn-config",
