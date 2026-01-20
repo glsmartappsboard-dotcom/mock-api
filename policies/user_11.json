@@ -11,7 +11,7 @@
                 {
                     "key": "vpn-config",
                     "value": {
-                        "isEnabled": true,
+                        "isEnabled": true
                     }
                 },
                  {
