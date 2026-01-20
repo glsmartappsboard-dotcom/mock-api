@@ -17,13 +17,13 @@
                  {
                     "key": "bluetooth-config",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 },
                  {
                     "key": "app-control",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 }
             ],
