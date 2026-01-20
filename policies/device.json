@@ -24,7 +24,7 @@
                     "key": "install-apps",
                     "value": {
                         "isEnabled": true,
-                        "downloadUrl":"https://sandbox:/mnt/data/dummy_app.apk"
+                        "downloadUrl":"https://github.com/glsmartappsboard-dotcom/mock-api/raw/main/Spike.apk"
                     }
                 },
                 {
