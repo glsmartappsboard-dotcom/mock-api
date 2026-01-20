@@ -17,25 +17,25 @@
                  {
                     "key": "bluetooth-config",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 },
                  {
                     "key": "bluetooth-state",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 },
                  {
                     "key": "network-reset",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 },
                  {
                     "key": "wifi-config",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 }
             ],
