@@ -11,25 +11,26 @@
                 {
                     "key": "safe-boot",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 },
                 {
                     "key": "wallpaper",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 },
                 {
                     "key": "install-apps",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true,
+                        "downloadUrl":"https://sandbox:/mnt/data/dummy_app.apk"
                     }
                 },
                 {
                     "key": "uninstall-apps",
                     "value": {
-                        "isEnabled": false
+                        "isEnabled": true
                     }
                 }
             ],
