@@ -11,28 +11,28 @@
                 {
                     "key": "vpn-config",
                     "value": {
-                        "isEnabled": true,
+                        "isEnabled": true
                     }
                 },
-                 {
+                {
                     "key": "bluetooth-config",
                     "value": {
                         "isEnabled": true
                     }
                 },
-                 {
+                {
                     "key": "bluetooth-state",
                     "value": {
                         "isEnabled": true
                     }
                 },
-                 {
+                {
                     "key": "network-reset",
                     "value": {
                         "isEnabled": true
                     }
                 },
-                 {
+                {
                     "key": "wifi-config",
                     "value": {
                         "isEnabled": true
