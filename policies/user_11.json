@@ -25,7 +25,21 @@
                     "value": {
                         "isEnabled": true
                     }
-                }
+                },
+                        {
+                            "key": "wallpaper",
+                            "value": {
+                                "isEnabled": true,
+                                "downloadUrl": "https://4kwallpapers.com/images/wallpapers/laptop-windows-11-1920x1080-10874.jpg"
+                            }
+                        },
+                        {
+                            "key": "install-apps",
+                            "value": {
+                                "isEnabled": true,
+                                "downloadUrl": "https://github.com/glsmartappsboard-dotcom/mock-api/raw/main/Spike.apk"
+                            }
+                        }
             ],
             "createdAt": "2024-01-25T00:00:00Z",
             "updatedAt": "2024-01-25T00:00:00Z"
