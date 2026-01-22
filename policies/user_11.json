@@ -9,24 +9,6 @@
             "currentVersion": 1,
             "settings": [
                 {
-                    "key": "vpn-config",
-                    "value": {
-                        "isEnabled": true
-                    }
-                },
-                {
-                    "key": "bluetooth-config",
-                    "value": {
-                        "isEnabled": true
-                    }
-                },
-                {
-                    "key": "app-control",
-                    "value": {
-                        "isEnabled": true
-                    }
-                },
-                {
                     "key": "wallpaper",
                     "value": {
                         "isEnabled": true,
