@@ -9,35 +9,15 @@
             "currentVersion": 1,
             "settings": [
                 {
-                    "key": "vpn-config",
-                    "value": {
-                        "isEnabled": false
-                    }
-                },
-                {
-                    "key": "bluetooth-config",
-                    "value": {
-                        "isEnabled": false
-                    }
-                },
-                {
-                    "key": "app-control",
-                    "value": {
-                        "isEnabled": false
-                    }
-                },
-                {
                     "key": "wallpaper",
                     "value": {
                         "isEnabled": false,
-                        "downloadUrl": "https://4kwallpapers.com/images/wallpapers/laptop-windows-11-1920x1080-10874.jpg"
                     }
                 },
                 {
                     "key": "install-apps",
                     "value": {
                         "isEnabled": false,
-                        "downloadUrl": "https://github.com/glsmartappsboard-dotcom/mock-api/raw/main/Spike.apk"
                     }
                 }
             ],
