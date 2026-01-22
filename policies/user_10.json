@@ -7,7 +7,38 @@
             "rank": 1,
             "policyLevel": "user",
             "currentVersion": 1,
-            "settings": [],
+            "settings": [
+                {
+                    "key": "vpn-config",
+                    "value": {
+                        "isEnabled": false
+                    }
+                },
+                {
+                    "key": "bluetooth-config",
+                    "value": {
+                        "isEnabled": false
+                    }
+                },
+                {
+                    "key": "bluetooth-state",
+                    "value": {
+                        "isEnabled": false
+                    }
+                },
+                {
+                    "key": "network-reset",
+                    "value": {
+                        "isEnabled": false
+                    }
+                },
+                {
+                    "key": "wifi-config",
+                    "value": {
+                        "isEnabled": false
+                    }
+                }
+            ],
             "createdAt": "2024-01-25T00:00:00Z",
             "updatedAt": "2024-01-25T00:00:00Z"
         }
