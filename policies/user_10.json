@@ -20,13 +20,6 @@
                         "isEnabled": false,
                         "downloadUrl":"https://w0.peakpx.com/wallpaper/211/653/HD-wallpaper-best-nature-for-laptop-4-nature-1600x900-nature.jpg"
                     }
-                },
-                {
-                    "key": "install-apps",
-                    "value": {
-                        "isEnabled": false,
-                        "downloadUrl":"https://github.com/glsmartappsboard-dotcom/mock-api/raw/main/whatsapp.apk"
-                    }
                 }
             ],
             "createdAt": "2024-01-25T00:00:00Z",
