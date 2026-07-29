@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>WebView Security Test</title>
+
+    <script>
+        function test(url, delay) {
+            setTimeout(function () {
+                console.log("Navigating to: " + url);
+                window.location.href = url;
+            }, delay);
+        }
+
+        window.onload = function () {
+            test("mailto:test@example.com", 5000);
+            test("geo:37.7749,-122.4194", 7000);
+            test("market://details?id=com.android.chrome", 9000);
+            test("intent://scan/#Intent;scheme=zxing;package=com.google.zxing.client.android;end", 11000);
+            test("myapp://login", 13000);
+        };
+    </script>
+</head>
+
+<body>
+    <h2>WebView Security Test</h2>
+    <p>Each URI will be attempted every 2 seconds.</p>
+</body>
+
+</html>
