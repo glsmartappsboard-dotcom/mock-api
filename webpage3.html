@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>WebView Security Test</title>
+
+    <script>
+        function test(url, delay) {
+            setTimeout(function () {
+                console.log("Navigating to: " + url);
+                window.location.href = url;
+            }, delay);
+        }
+
+        window.onload = function () {
+            test("https://www.gemini.com")
+        };
+    </script>
+</head>
+
+<body>
+    <h2>WebView Security Test</h2>
+    <p>Each URI will be attempted every 2 seconds.</p>
+</body>
+
+</html>
